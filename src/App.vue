@@ -2,10 +2,10 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">
-        h
+        hfd
         ome
       </router-link>|
-      <router-link to="/about">Abouffdsfdsfdst</router-link>
+      <router-link to="/about">Abofdssuffdsfdsfdst</router-link>
     </div>
     <router-view />
   </div>
