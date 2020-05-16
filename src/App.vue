@@ -5,7 +5,7 @@
         h
         ome
       </router-link>|
-      <router-link to="/about">Aboufdsfdst</router-link>
+      <router-link to="/about">Abouffdsfdsfdst</router-link>
     </div>
     <router-view />
   </div>
